@@ -1,0 +1,12 @@
+exp/
+embedding/
+token/
+metadata/
+mp3/
+parsing/
+notebook/
+models/
+*.egg-info
+jsonl
+output
+__pycache__/
