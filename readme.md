@@ -1,6 +1,6 @@
-# KOASR (korean automatic speech recognition)
+# Whisper finetuner for Korean
 
-한국어 ASR 모델 학습을 위한 레파지토리입니다. 간단한 Seq2Seq, CTC finetunning 모델을 지원하기 위해 만들어 졌습니다.
+한국어 ASR 모델 학습을 위한 레파지토리입니다. 간단한 Seq2Seq Model (whipser) finetunning 모델을 지원하기 위해 만들어 졌습니다.
 
 ### Install
 1. Install python and PyTorch: 
